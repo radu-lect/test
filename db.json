@@ -6,8 +6,7 @@
             "description": " Just a cat but better.",
             "price": 1000,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/radu-lect/test/main/img/premiumCat.png","https://raw.githubusercontent.com/radu-lect/test/main/img/cat.png"
-
+            "photo_url": "https://raw.githubusercontent.com/radu-lect/test/main/img/premiumCat.png , cat.png"
         }
     ]
 }
